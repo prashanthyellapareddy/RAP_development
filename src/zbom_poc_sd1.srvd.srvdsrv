@@ -1,0 +1,4 @@
+@EndUserText.label: 'Service Definition for Search'
+define service ZBOM_POC_SD1 {
+  expose ZC_BOM_DATA_SRCH;
+}

@@ -1,0 +1,4 @@
+@EndUserText.label: 'BOM Data Service Definition'
+define service ZBOM_POC_SD {
+  expose ZC_BOM_DATA;
+}
